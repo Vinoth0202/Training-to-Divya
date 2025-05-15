@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "Dataset link"
             }
+          },
+          {
+            "id": "0b0e893f243c48ce",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "bc25ed14e66bceb3",
@@ -213,10 +223,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28bfd4b329771bf2",
+  "active": "0b0e893f243c48ce",
   "lastOpenFiles": [
-    "Family/Dr. Dhivya.md",
+    "Untitled.canvas",
+    "2025-05-14.md",
+    "Untitled.md",
     "Useful/Dataset link.md",
+    "Family/Dr. Dhivya.md",
     "Useful",
     "Family/Dev.md",
     "Family/Manju.md",
