@@ -53,10 +53,14 @@
             "id": "0b0e893f243c48ce",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Family/Dr. Dhivya.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dr. Dhivya"
             }
           }
         ],
@@ -225,14 +229,14 @@
   },
   "active": "0b0e893f243c48ce",
   "lastOpenFiles": [
+    "Family/Manju.md",
+    "Family/Dr. Dhivya.md",
+    "Family/Dev.md",
+    "Untitled.md",
     "Untitled.canvas",
     "2025-05-14.md",
-    "Untitled.md",
     "Useful/Dataset link.md",
-    "Family/Dr. Dhivya.md",
     "Useful",
-    "Family/Dev.md",
-    "Family/Manju.md",
     "Untitled/desktop.ini",
     "Family",
     "desktop.ini"
