@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful/Dataset link.md",
+                "file": "Research Education/Important link.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dataset link"
+              "title": "Important link"
             }
           },
           {
@@ -227,6 +227,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "0b0e893f243c48ce",
   "lastOpenFiles": [
     "Family/Manju.md",
@@ -237,6 +238,19 @@
     "2025-05-14.md",
     "Useful/Dataset link.md",
     "Useful",
+=======
+  "active": "1bcec98fcac3f9f6",
+  "lastOpenFiles": [
+    "code practice/CF_training.ipynb",
+    "code practice",
+    "New folder",
+    "Useful/Dataset link.md",
+    "Research Education/Important link.md",
+    "Family/Dr. Dhivya.md",
+    "Family/Manju.md",
+    "Family/Dev.md",
+    "Research Education",
+>>>>>>> f9bfd66effcb4213478f57381b477285c55becaa
     "Untitled/desktop.ini",
     "Family",
     "desktop.ini"
