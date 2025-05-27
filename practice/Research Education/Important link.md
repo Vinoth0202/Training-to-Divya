@@ -1,3 +1,3 @@
 - https://chatgpt.com/share/68241deb-3cc4-8010-9eea-6c5ed3a9d4b4
 - [Python for bioinformatics](https://www.youtube.com/watch?v=jBlTQjcKuaY&t=647s)
-- To be updated
+- [Chemprop execution practice](https://chatgpt.com/share/6835154f-ad70-800f-9c7d-9fa80894ad6a)

@@ -213,8 +213,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bcec98fcac3f9f6",
+  "active": "28bfd4b329771bf2",
   "lastOpenFiles": [
+    "code practice/SMILES_Big_Data_Set.csv",
+    "code practice/Chemprop_training_1.ipynb",
     "code practice/something.md",
     "~$sting for obsidean.docx",
     "~WRL0003.tmp",
@@ -229,7 +231,6 @@
     "Family/Manju.md",
     "Family/Dev.md",
     "Research Education",
-    "Untitled/desktop.ini",
-    "Family"
+    "Untitled/desktop.ini"
   ]
 }
