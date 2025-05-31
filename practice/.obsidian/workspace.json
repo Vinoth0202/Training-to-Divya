@@ -1,73 +1,20 @@
 {
   "main": {
-    "id": "72131c421c048b7e",
+    "id": "e6863557e74232c2",
     "type": "split",
     "children": [
       {
-        "id": "1668ac5b5d54ab92",
+        "id": "edaf229be635e869",
         "type": "tabs",
         "children": [
           {
-            "id": "38098d7c98d153f3",
-            "type": "leaf",
-            "state": {
-<<<<<<< HEAD
-              "type": "empty",
-=======
-              "type": "markdown",
-              "state": {
-                "file": "Dev.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dev"
-            }
-          },
-          {
-            "id": "e2d5019dd31d5982",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Family/Dr. Dhivya.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dr. Dhivya"
-            }
-          },
-          {
-            "id": "28bfd4b329771bf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research Education/Important link.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Important link"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "bc25ed14e66bceb3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a32b1f602d1ebe1e",
+            "id": "1bc5609e93b8009e",
             "type": "leaf",
             "state": {
               "type": "graph",
->>>>>>> 6e416ca99c66ccbde3def9d2ba036acbf15441db
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -76,20 +23,20 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "881c29ccb0072381",
+    "id": "5dc3276a240d5bc2",
     "type": "split",
     "children": [
       {
-        "id": "aaa97d1bcf63c4c5",
+        "id": "0b8c3a6ee912a053",
         "type": "tabs",
         "children": [
           {
-            "id": "480719c6d6bdf876",
+            "id": "2051a8587f4ebd44",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -97,7 +44,7 @@
             }
           },
           {
-            "id": "5ce1e2b6e41e3b81",
+            "id": "458a799440a9e645",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -114,7 +61,7 @@
             }
           },
           {
-            "id": "3a6610bd6912b116",
+            "id": "14e6577b9b5012b7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -130,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "b1457aa4772eb240",
+    "id": "352afbddcebb7930",
     "type": "split",
     "children": [
       {
-        "id": "3e511f71c086ddcc",
+        "id": "bac379c857b9fd30",
         "type": "tabs",
         "children": [
           {
-            "id": "c68bcb72bd6eaddf",
+            "id": "08d2a5ce9100c148",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -149,14 +96,14 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "Backlinks"
             }
           },
           {
-            "id": "23dcc845a2369dc9",
+            "id": "c1edb95836eb07c5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -169,7 +116,7 @@
             }
           },
           {
-            "id": "11a98b810c344dce",
+            "id": "05829ac033476bf0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -184,7 +131,7 @@
             }
           },
           {
-            "id": "d7aa07a52acaaf00",
+            "id": "7981930e6458db4d",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -201,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -214,29 +161,22 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "38098d7c98d153f3",
-  "lastOpenFiles": []
-=======
-  "active": "28bfd4b329771bf2",
+  "active": "1bc5609e93b8009e",
   "lastOpenFiles": [
-    "code practice/SMILES_Big_Data_Set.csv",
-    "code practice/Chemprop_training_1.ipynb",
-    "code practice/something.md",
-    "~$sting for obsidean.docx",
-    "~WRL0003.tmp",
-    "~WRD0002.tmp",
-    "Testing for obsidean.docx",
-    "Research Education/Important link.md",
-    "code practice/CF_training.ipynb",
-    "code practice",
-    "New folder",
-    "Useful/Dataset link.md",
-    "Family/Dr. Dhivya.md",
-    "Family/Manju.md",
-    "Family/Dev.md",
-    "Research Education",
-    "Untitled/desktop.ini"
+    "Family/2025-05-30 (My last day as (APC-VIT).md",
+    "Family/Unforgettable memory.canvas",
+    "Family/Memories.md",
+    "Untitled.canvas",
+    "WhatsApp Image 2025-05-31 at 12.08.20 PM.jpeg",
+    "Family/WhatsApp Image 2025-05-31 at 12.08.20 PM 1.jpeg",
+    "Family/WhatsApp Image 2025-05-31 at 12.08.25 PM (3).jpeg",
+    "Family/WhatsApp Image 2025-05-31 at 12.08.25 PM.jpeg",
+    "WhatsApp Image 2025-05-31 at 12.08.19 PM 1.jpeg",
+    "WhatsApp Image 2025-05-31 at 12.08.19 PM.jpeg",
+    "WhatsApp Image 2025-05-31 at 12.08.21 PM (1).jpeg",
+    "WhatsApp Image 2025-05-31 at 12.08.20 PM (1).jpeg",
+    "Untitled.md",
+    "Family/Dr. Dhivya Gunasekaran.md",
+    "Family/2025-05-31.md"
   ]
->>>>>>> 6e416ca99c66ccbde3def9d2ba036acbf15441db
 }
