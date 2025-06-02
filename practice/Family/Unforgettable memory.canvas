@@ -1,0 +1,48 @@
+{
+  "edges": [
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "2",
+      "height": 300,
+      "id": "fc256aaecdceb145",
+      "label": "Library",
+      "type": "group",
+      "width": 420,
+      "x": -320,
+      "y": -260
+    },
+    {
+      "file": "Family/WhatsApp Image 2025-05-31 at 12.08.25 PM.jpeg",
+      "height": 250,
+      "id": "d1e00957039eed34",
+      "type": "file",
+      "width": 112,
+      "x": -300,
+      "y": -235
+    },
+    {
+      "file": "Family/WhatsApp Image 2025-05-31 at 12.08.20 PM 1.jpeg",
+      "height": 90,
+      "id": "97c6227d94041f5e",
+      "type": "file",
+      "width": 201,
+      "x": -159,
+      "y": -110
+    },
+    {
+      "file": "Family/WhatsApp Image 2025-05-31 at 12.08.25 PM (3).jpeg",
+      "height": 89,
+      "id": "1a0611bb34aa1c41",
+      "type": "file",
+      "width": 199,
+      "x": -159,
+      "y": -235
+    }
+  ]
+}
