@@ -1,45 +1,14 @@
 {
   "main": {
-    "id": "72131c421c048b7e",
+    "id": "40c877662ac5ab46",
     "type": "split",
     "children": [
       {
-        "id": "1668ac5b5d54ab92",
+        "id": "ecb3161d72b80540",
         "type": "tabs",
         "children": [
           {
-            "id": "38098d7c98d153f3",
-            "type": "leaf",
-            "state": {
-<<<<<<< HEAD
-              "type": "empty",
-=======
-              "type": "markdown",
-              "state": {
-                "file": "Dev.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dev"
-            }
-          },
-          {
-            "id": "e2d5019dd31d5982",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Family/Dr. Dhivya.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dr. Dhivya"
-            }
-          },
-          {
-            "id": "28bfd4b329771bf2",
+            "id": "282ef83b718a4aad",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,39 +21,21 @@
               "title": "Important link"
             }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "bc25ed14e66bceb3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a32b1f602d1ebe1e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
->>>>>>> 6e416ca99c66ccbde3def9d2ba036acbf15441db
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
         ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "881c29ccb0072381",
+    "id": "a16334a569dc0e6b",
     "type": "split",
     "children": [
       {
-        "id": "aaa97d1bcf63c4c5",
+        "id": "b5da9e0d7b176bf6",
         "type": "tabs",
         "children": [
           {
-            "id": "480719c6d6bdf876",
+            "id": "6d435ce707f658f7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -97,7 +48,7 @@
             }
           },
           {
-            "id": "5ce1e2b6e41e3b81",
+            "id": "706a56cdf21b7525",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -114,7 +65,7 @@
             }
           },
           {
-            "id": "3a6610bd6912b116",
+            "id": "1f4a406c6697a73c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -130,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "b1457aa4772eb240",
+    "id": "b89907f0880c61db",
     "type": "split",
     "children": [
       {
-        "id": "3e511f71c086ddcc",
+        "id": "7b0bf95492c6fd18",
         "type": "tabs",
         "children": [
           {
-            "id": "c68bcb72bd6eaddf",
+            "id": "4fff8c70bcb63783",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Research Education/Important link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Important link"
             }
           },
           {
-            "id": "23dcc845a2369dc9",
+            "id": "b5d65563e5c01b74",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Research Education/Important link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Important link"
             }
           },
           {
-            "id": "11a98b810c344dce",
+            "id": "1c2732765da1e4dc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -184,17 +137,18 @@
             }
           },
           {
-            "id": "d7aa07a52acaaf00",
+            "id": "85d8925e54e79c5f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Research Education/Important link.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Important link"
             }
           }
         ]
@@ -214,29 +168,6 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "38098d7c98d153f3",
+  "active": "282ef83b718a4aad",
   "lastOpenFiles": []
-=======
-  "active": "28bfd4b329771bf2",
-  "lastOpenFiles": [
-    "code practice/SMILES_Big_Data_Set.csv",
-    "code practice/Chemprop_training_1.ipynb",
-    "code practice/something.md",
-    "~$sting for obsidean.docx",
-    "~WRL0003.tmp",
-    "~WRD0002.tmp",
-    "Testing for obsidean.docx",
-    "Research Education/Important link.md",
-    "code practice/CF_training.ipynb",
-    "code practice",
-    "New folder",
-    "Useful/Dataset link.md",
-    "Family/Dr. Dhivya.md",
-    "Family/Manju.md",
-    "Family/Dev.md",
-    "Research Education",
-    "Untitled/desktop.ini"
-  ]
->>>>>>> 6e416ca99c66ccbde3def9d2ba036acbf15441db
 }
