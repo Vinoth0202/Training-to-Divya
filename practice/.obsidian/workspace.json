@@ -11,10 +11,14 @@
             "id": "1bc5609e93b8009e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Family/Dev.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dev"
             }
           }
         ]
@@ -163,15 +167,15 @@
   },
   "active": "1bc5609e93b8009e",
   "lastOpenFiles": [
-    "code practice/Deepchem.ipynb",
-    "Family/2025-05-30 (My last day as (APC-VIT).md",
+    "Family/WhatsApp Image 2025-05-31 at 12.08.25 PM.jpeg",
     "Family/Unforgettable memory.canvas",
+    "Family/2025-05-30 (My last day as (APC-VIT).md",
     "Family/Memories.md",
+    "code practice/Deepchem.ipynb",
     "Untitled.canvas",
     "WhatsApp Image 2025-05-31 at 12.08.20 PM.jpeg",
     "Family/WhatsApp Image 2025-05-31 at 12.08.20 PM 1.jpeg",
     "Family/WhatsApp Image 2025-05-31 at 12.08.25 PM (3).jpeg",
-    "Family/WhatsApp Image 2025-05-31 at 12.08.25 PM.jpeg",
     "WhatsApp Image 2025-05-31 at 12.08.19 PM 1.jpeg",
     "WhatsApp Image 2025-05-31 at 12.08.19 PM.jpeg",
     "WhatsApp Image 2025-05-31 at 12.08.21 PM (1).jpeg",
