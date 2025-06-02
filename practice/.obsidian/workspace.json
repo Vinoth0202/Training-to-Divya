@@ -1,5 +1,26 @@
 {
   "main": {
+<<<<<<< HEAD
+    "id": "40c877662ac5ab46",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecb3161d72b80540",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "282ef83b718a4aad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research Education/Important link.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Important link"
+=======
     "id": "e6863557e74232c2",
     "type": "split",
     "children": [
@@ -11,6 +32,7 @@
             "id": "1bc5609e93b8009e",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "markdown",
               "state": {
                 "file": "Family/Dev.md",
@@ -19,6 +41,13 @@
               },
               "icon": "lucide-file",
               "title": "Dev"
+=======
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+>>>>>>> a08e255ca73ce6c463324cc20a37022083a23368
+>>>>>>> 65b9a7ac27ace69c601f9a5d37b46422bfb23d24
             }
           }
         ]
@@ -27,6 +56,17 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
+    "id": "a16334a569dc0e6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5da9e0d7b176bf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d435ce707f658f7",
+=======
     "id": "5dc3276a240d5bc2",
     "type": "split",
     "children": [
@@ -36,6 +76,7 @@
         "children": [
           {
             "id": "2051a8587f4ebd44",
+>>>>>>> a08e255ca73ce6c463324cc20a37022083a23368
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +89,11 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "706a56cdf21b7525",
+=======
             "id": "458a799440a9e645",
+>>>>>>> a08e255ca73ce6c463324cc20a37022083a23368
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +110,11 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "1f4a406c6697a73c",
+=======
             "id": "14e6577b9b5012b7",
+>>>>>>> a08e255ca73ce6c463324cc20a37022083a23368
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,6 +130,17 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
+    "id": "b89907f0880c61db",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b0bf95492c6fd18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fff8c70bcb63783",
+=======
     "id": "352afbddcebb7930",
     "type": "split",
     "children": [
@@ -90,10 +150,12 @@
         "children": [
           {
             "id": "08d2a5ce9100c148",
+>>>>>>> a08e255ca73ce6c463324cc20a37022083a23368
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Research Education/Important link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +165,33 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Important link"
             }
           },
           {
+<<<<<<< HEAD
+            "id": "b5d65563e5c01b74",
+=======
             "id": "c1edb95836eb07c5",
+>>>>>>> a08e255ca73ce6c463324cc20a37022083a23368
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Research Education/Important link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Important link"
             }
           },
           {
+<<<<<<< HEAD
+            "id": "1c2732765da1e4dc",
+=======
             "id": "05829ac033476bf0",
+>>>>>>> a08e255ca73ce6c463324cc20a37022083a23368
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,17 +206,22 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "85d8925e54e79c5f",
+=======
             "id": "7981930e6458db4d",
+>>>>>>> a08e255ca73ce6c463324cc20a37022083a23368
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Research Education/Important link.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Important link"
             }
           }
         ]
@@ -165,6 +241,10 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
+  "active": "282ef83b718a4aad",
+  "lastOpenFiles": []
+=======
   "active": "1bc5609e93b8009e",
   "lastOpenFiles": [
     "Family/WhatsApp Image 2025-05-31 at 12.08.25 PM.jpeg",
@@ -184,4 +264,5 @@
     "Family/Dr. Dhivya Gunasekaran.md",
     "Family/2025-05-31.md"
   ]
+>>>>>>> a08e255ca73ce6c463324cc20a37022083a23368
 }
