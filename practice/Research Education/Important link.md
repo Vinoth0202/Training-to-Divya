@@ -2,3 +2,5 @@
 - [Python for bioinformatics](https://www.youtube.com/watch?v=jBlTQjcKuaY&t=647s)
 - [Chemprop execution practice](https://chatgpt.com/share/6835154f-ad70-800f-9c7d-9fa80894ad6a)
 - [Dataset](https://chatgpt.com/share/683d33ab-9580-8010-a150-347d7ed3b096)
+- [Course work](https://onlinecourses.nptel.ac.in/noc25_ch96/preview)
+- 
