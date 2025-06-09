@@ -5,4 +5,4 @@
 - [Course work](https://onlinecourses.nptel.ac.in/noc25_ch96/preview)
 - [ Machine Learning for Drug Discovery](https://www.manning.com/books/machine-learning-for-drug-discovery)
 - [Computational Drug Discovery and Design](https://link.springer.com/book/10.1007/978-1-0716-3441-7#toc)
-- 
+- [Chatgpt 09/06](https://chatgpt.com/share/683d33ab-9580-8010-a150-347d7ed3b096)
