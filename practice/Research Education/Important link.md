@@ -7,3 +7,4 @@
 - [Computational Drug Discovery and Design](https://link.springer.com/book/10.1007/978-1-0716-3441-7#toc)
 - [Chatgpt 09/06](https://chatgpt.com/share/683d33ab-9580-8010-a150-347d7ed3b096)
 - [Regression Model using Chemprop](https://colab.research.google.com/github/chemprop/chemprop/blob/main/examples/training_regression_reaction.ipynb#scrollTo=wWcZncmCei4V)
+- [Objectives link](https://chatgpt.com/share/684bd3be-8810-8010-a135-3c21ef89679a)
