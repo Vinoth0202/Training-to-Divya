@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Education/Paper Discussion.md",
+                "file": "Research Education/Important link.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paper Discussion"
+              "title": "Important link"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "dbcf939c02895268",
   "lastOpenFiles": [
-    "2025-06-12.md",
     "Research Education/Paper Discussion.md",
+    "2025-06-12.md",
     "Research Education/Important link.md",
     "~$sting for obsidean.docx",
     "code practice/Datasests/AID_743267_datatable_all.csv"
