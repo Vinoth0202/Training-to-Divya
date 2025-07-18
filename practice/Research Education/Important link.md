@@ -10,3 +10,6 @@
 - [[Paper Discussion]] Data links
 	- [In silico screening](https://pubchem.ncbi.nlm.nih.gov/bioassay/743267#section=Data-Table)
 - [Objectives link](https://chatgpt.com/share/684bd3be-8810-8010-a135-3c21ef89679a)
+$$
+- 
+$$
