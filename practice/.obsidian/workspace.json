@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "c4c04c3d50040ac2",
+    "id": "8f278995f97a0204",
     "type": "split",
     "children": [
       {
-        "id": "f45e5c7b56a131d9",
+        "id": "33f4b6437bbddba7",
         "type": "tabs",
         "children": [
           {
-            "id": "dbcf939c02895268",
+            "id": "f09649942f18cd5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research Education/Important link.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Important link"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1e2e5c1db9207234",
+    "id": "b3613aaff782b9d3",
     "type": "split",
     "children": [
       {
-        "id": "a23f188597a70b50",
+        "id": "b51e5ddb6f64131c",
         "type": "tabs",
         "children": [
           {
-            "id": "f36665609bd8c413",
+            "id": "4ac898379bdff35a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "77ff502f55fb9281",
+            "id": "e65bdd5da6d36ff3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "c6c42e5a251f209c",
+            "id": "6b07098f252f420c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "11d844e0b8dd8c4a",
+    "id": "e89ad999f54756b9",
     "type": "split",
     "children": [
       {
-        "id": "91acd8bc8ff783d0",
+        "id": "208549ba9b1ddfc7",
         "type": "tabs",
         "children": [
           {
-            "id": "af731e281f79062d",
+            "id": "72fd761e01e29d26",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research Education/Important link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Important link"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "0f501bb5bc7f8d28",
+            "id": "cf7f8d736ba81f0b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research Education/Important link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Important link"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "569d266064199dfc",
+            "id": "626be062fd6c1a51",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +131,17 @@
             }
           },
           {
-            "id": "b0d382b67b2e01ee",
+            "id": "fc4f8f4f5eced3dd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research Education/Important link.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Important link"
+              "title": "Outline"
             }
           }
         ]
@@ -168,17 +161,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f36665609bd8c413",
-  "lastOpenFiles": [
-    "code practice/String_conversion.ipynb",
-    "Research Education/Important link.md",
-    "2025-07-17.md",
-    "DL from scratch/Deep learning from scratch by Seth Weidman.md",
-    "DL from scratch",
-    "Research Education/Paper Discussion.md",
-    "2025-06-12.md",
-    "2025-06-12.md",
-    "~$sting for obsidean.docx",
-    "code practice/Datasests/AID_743267_datatable_all.csv"
-  ]
+  "active": "f09649942f18cd5d",
+  "lastOpenFiles": []
 }
