@@ -10,6 +10,11 @@
 - [[Paper Discussion]] Data links
 	- [In silico screening](https://pubchem.ncbi.nlm.nih.gov/bioassay/743267#section=Data-Table)
 - [Objectives link](https://chatgpt.com/share/684bd3be-8810-8010-a135-3c21ef89679a)
+<<<<<<< HEAD
 $$
 - 
 $$
+=======
+- [CFTR process Chatgpt](https://chatgpt.com/share/687a248a-3074-8010-9939-e683d4c7f897)
+- [Curated CFTR ](https://www.uniprot.org/id-mapping/uniprotkb/k68HG4dM9i/overview)
+- 
