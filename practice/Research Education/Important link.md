@@ -17,4 +17,4 @@ $$
 =======
 - [CFTR process Chatgpt](https://chatgpt.com/share/687a248a-3074-8010-9939-e683d4c7f897)
 - [Curated CFTR ](https://www.uniprot.org/id-mapping/uniprotkb/k68HG4dM9i/overview)
-- 
+- [Prototype](https://chatgpt.com/share/6889ac78-0e30-8006-99cb-e6e11b1cb249)
